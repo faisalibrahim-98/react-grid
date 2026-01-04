@@ -15,12 +15,6 @@ const LinkComp = () => {
 const Welcome: React.FC = () => {
   return (
     <>
-      <div>
-        <a href="https://www.physicsx.ai/" target="_blank">
-          <img src={pxLogo} className="logo physicsX" alt="PhysicsX logo" />
-        </a>
-      </div>
-      <h1>Welcome to PhysicsX Front End assessment!</h1>
       <div className="card">
         <p className="read-the-docs">
           Navigate to <LinkComp /> to start!

@@ -1,7 +1,7 @@
-# PhysicsX FE assessment 
+# React Grid
 
 For instructions how to start the web-app please go [here](./app.md) and the server [here](./server.md)
 
-# Submission by
+# Created by
 
 Faisal Ibrahim
